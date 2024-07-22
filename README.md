@@ -13,7 +13,7 @@ Make sure you have the following installed:
 - OpenCV (cv2) library
 - NumPy library
 ## Installation
-1. clone the repositry:
+1. clone the repository:
 ```bash
 git clone https://github.com/yourusername/color-detector.git
 cd color-detection-detector
