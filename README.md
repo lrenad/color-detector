@@ -15,7 +15,7 @@ Make sure you have the following installed:
 ## Installation
 1. clone the repository:
 ```bash
-git clone https://github.com/yourusername/color-detector.git
+git clone https://github.com/lrenad/color-detector.git
 cd color-detection-detector
 ```
 2. Install the required packages:
