@@ -12,16 +12,6 @@ Make sure you have the following installed:
 - Python 3.x
 - OpenCV (cv2) library
 - NumPy library
-## Installation
-1. clone the repository:
-```bash
-git clone https://github.com/lrenad/color-detector.git
-cd color-detection-detector
-```
-2. Install the required packages:
-```bash
-pip install opencv-python numpy
-```
 
 
 
